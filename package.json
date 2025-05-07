@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "Sevidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adri27Sanz/Proyecto_FM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adri27Sanz/Proyecto_FM/issues"
+  },
+  "homepage": "https://github.com/Adri27Sanz/Proyecto_FM#readme",
+  "description": "An API REST using server.js",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
